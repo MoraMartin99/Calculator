@@ -1,0 +1,23 @@
+/* Fuente personalizada */
+/* --------------------------------------------------------------------------------------------------- */
+@font-face {
+    font-family: "jetbrainsmono";
+    src: url(./font/JetBrainsMono-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "jetbrainsmono";
+    src: url(./font/JetBrainsMono-Medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "jetbrainsmono";
+    src: url(./font/JetBrainsMono-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+/* --------------------------------------------------------------------------------------------------- */
