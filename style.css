@@ -88,3 +88,85 @@ header {
 }
 /* --------------------------------------------------------------------------------------------------- */
 
+/* main */
+/* --------------------------------------------------------------------------------------------------- */
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calculator {
+    width: var(--widthCalculadora);
+    height: var(--heightCalculadora);
+    background-color: var(--violeta);
+    border-radius: var(--radiusCalculadora);
+    display: grid;
+    grid-template-columns: max-content;
+    grid-template-rows: max-content;
+    justify-content: center;
+    align-content: center;
+    row-gap: var(--gapCalculator);
+}
+
+.display {
+    width: var(--widthDisplay);
+    height: var(--heightDisplay);
+    background-color: var(--verde);
+    border-radius: var(--radiusDisplay);
+}
+
+.buttonContainer {
+    width: var(--widthDisplay);
+    height: var(--heightbuttonContainer);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.btn {
+    color: var(--azulExtraOscuro);
+    background-color: var(--violetaOscuro);
+    font-size: var(--fontSizebtn);
+    font-weight: 500;
+    width: var(--diameterbtn);
+    height: var(--diameterbtn);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.btn.special {
+    background-color: var(--amarilloClaro);
+}
+
+.btn.del {
+    background-image: url("./img/delete.svg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: var(--fontSizebtn);
+}
+
+.btn.point {
+    background-image: url("./img/circle.svg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: calc(var(--fontSizebtn) * 0.2);
+}
+
+.btn.equal {
+    width: calc(var(--diameterbtn) * 2);
+    background-color: var(--amarillo);
+    border-radius: var(--diameterbtn);
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+/* footer */
+/* --------------------------------------------------------------------------------------------------- */
+
