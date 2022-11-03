@@ -70,3 +70,21 @@ html {
 }
 /* --------------------------------------------------------------------------------------------------- */
 
+/* header */
+/* --------------------------------------------------------------------------------------------------- */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--azul);
+    padding-block: clamp(0.3125rem, 0.1875rem + 0.625vw, 0.9375rem);
+    grid-area: head;
+}
+
+.pageTitle {
+    font-size: clamp(1.75rem, 1.6rem + 0.75vw, 2.5rem);
+    font-weight: bold;
+    color: var(--azulOscuro);
+}
+/* --------------------------------------------------------------------------------------------------- */
+
