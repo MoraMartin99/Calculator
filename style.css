@@ -170,3 +170,30 @@ main {
 /* footer */
 /* --------------------------------------------------------------------------------------------------- */
 
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--azul);
+    padding-block: clamp(0.3125rem, 0.1875rem + 0.625vw, 0.9375rem);
+    grid-area: footer;
+}
+
+footer a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: calc(var(--footerLogoWidth) * 0.5);
+}
+
+.footerTitle {
+    font-size: clamp(1.125rem, 1.0375rem + 0.43750000000000006vw, 1.5625rem);
+    font-weight: 500;
+    color: var(--azulOscuro);
+}
+
+.footerLogo {
+    width: var(--footerLogoWidth);
+}
+
+/* --------------------------------------------------------------------------------------------------- */
