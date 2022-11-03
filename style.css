@@ -21,3 +21,52 @@
     font-style: normal;
 }
 /* --------------------------------------------------------------------------------------------------- */
+
+/* Estilos globales */
+/* --------------------------------------------------------------------------------------------------- */
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "jetbrainsmono";
+    font-size: 0px;
+    text-decoration: none;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-rows: max-content 1fr max-content;
+    grid-template-areas:
+        "head"
+        "main"
+        "footer";
+    background-color: var(--azulClaro);
+}
+
+html {
+    --azul: #7b95e8ff;
+    --azulClaro: #b1c2f6ff;
+    --azulOscuro: #121c38ff;
+    --azulExtraOscuro: #000b25ff;
+    --violeta: #98a0b7ff;
+    --violetaOscuro: #7984a4ff;
+    --verde: #e5fff8ff;
+    --amarillo: #efbe38ff;
+    --amarilloClaro: #ffe08aff;
+    --footerLogoWidth: clamp(1.3125rem, 1.1875rem + 0.625vw, 1.9375rem);
+    --widthCalculadora: min(80vw, 65vh, 700px);
+    --heightCalculadora: calc(var(--widthCalculadora) * (800 / 700));
+    --radiusCalculadora: calc(var(--widthCalculadora) * 0.05);
+    --widthDisplay: calc(var(--widthCalculadora) * calc(620 / 700));
+    --heightDisplay: calc(var(--widthDisplay) * (215 / 620));
+    --radiusDisplay: calc(var(--widthDisplay) * (30 / 620));
+    --heightbuttonContainer: calc(var(--widthDisplay) * (465 / 620));
+    --gapCalculator: calc(var(--widthCalculadora) * (40 / 700));
+    --diameterbtn: calc(var(--widthCalculadora) * (80 / 700));
+    --fontSizebtn: calc(var(--diameterbtn) * (35 / 80));
+}
+/* --------------------------------------------------------------------------------------------------- */
+
