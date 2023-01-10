@@ -150,6 +150,7 @@ main {
 }
 
 .btn {
+    position: relative;
     color: var(--azulExtraOscuro);
     background-color: var(--violetaOscuro);
     font-size: var(--fontSizebtn);
@@ -161,6 +162,7 @@ main {
     justify-content: center;
     align-items: center;
     border: none;
+    transition: all 0.3s;
 }
 
 .btn.special {
@@ -187,6 +189,11 @@ main {
     border-radius: var(--diameterbtn);
 }
 
+.btn:hover {
+    transform: scale(1.15);
+    filter: saturate(150%);
+    cursor: pointer;
+}
 /* --------------------------------------------------------------------------------------------------- */
 
 /* footer */
