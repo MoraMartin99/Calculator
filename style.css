@@ -67,6 +67,9 @@ html {
     --gapCalculator: calc(var(--widthCalculadora) * (40 / 700));
     --diameterbtn: calc(var(--widthCalculadora) * (80 / 700));
     --fontSizebtn: calc(var(--diameterbtn) * (35 / 80));
+    --displayRowWidth: calc(var(--widthDisplay) - var(--gapCalculator));
+    --displayFont: calc(var(--widthDisplay) * (65 / 620));
+    --btnAfterOpacity: 0.1;
 }
 /* --------------------------------------------------------------------------------------------------- */
 
