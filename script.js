@@ -142,3 +142,34 @@ const isValidPseudoExp = (expression) => {
 };
 /* --------------------------------------------------------------------------------------------------- */
 
+/* funciones de la calculadora */
+/* --------------------------------------------------------------------------------------------------- */
+
+const addTextToDisplay = (text) => {
+    displayContent.innerText += text;
+};
+
+const clearDisplay = () => {
+    displayContent.innerText = "";
+};
+
+const deleteChar = () => {
+    if (displayContent.innerText) {
+        if (varA && operator && varB) {
+            varA = null;
+            varB = null;
+            operator = null;
+        }
+
+        displayContent.innerText = displayContent.innerText.slice(0, displayContent.innerText.length - 1);
+    }
+};
+
+const allClear = () => {
+    varA = null;
+    varB = null;
+    operator = null;
+    displayContent.innerText = "";
+};
+/* --------------------------------------------------------------------------------------------------- */
+
