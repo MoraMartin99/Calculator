@@ -173,3 +173,24 @@ const allClear = () => {
 };
 /* --------------------------------------------------------------------------------------------------- */
 
+/* animaciones */
+/* --------------------------------------------------------------------------------------------------- */
+const secondsToMilliseconds = (second) => {
+    const regex = /^\d+(?=s)|^\d+\.\d+(?=s)/i;
+    const milliseconds = parseFloat(second.match(regex)[0]) * 1000;
+    return milliseconds;
+};
+
+const showPulseButton = (element, animationDuration) => {
+    new Promise((resolve, reject) => {
+        removeChild(element, ".pulseChild");
+        addDivChild(element, "pulseChild");
+        const pulseChild = element.querySelector(".pulseChild");
+        pulseChild.style.animationDuration = animationDuration;
+        setTimeout(resolve, secondsToMilliseconds(animationDuration));
+    }).then(() => {
+        removeChild(element, ".pulseChild");
+    });
+};
+/* --------------------------------------------------------------------------------------------------- */
+
