@@ -95,3 +95,50 @@ const properRound = (result) => {
 };
 /* --------------------------------------------------------------------------------------------------- */
 
+/* validaciones */
+/* --------------------------------------------------------------------------------------------------- */
+
+const isValidInteger = (number) => {
+    const regex = /^0%{0,1}$|^-{0,1}[1-9]{1}\d{0,9}%{0,1}$/gm;
+    return regex.test(number);
+};
+
+const isValidDecimal = (number) => {
+    const regex =
+        /^(?=.{3,11}$)\d+\.{1}\d+$|^(?=.{3,12}$)-\d+\.{1}\d+$|^(?=.{3,12}$)\d+\.{1}\d+%{1}$|^(?=.{3,13}$)-\d+\.{1}\d+%{1}$/gm;
+    return regex.test(number);
+};
+
+const isValidNumber = (number) => {
+    if (isValidInteger(number) || isValidDecimal(number)) {
+        return true;
+    }
+    return false;
+};
+
+const isValidPseudoExp = (expression) => {
+    let lengthTest = false;
+    let orderTest = false;
+
+    const numRegex = /\d/g;
+    const minusRegex = /^-$|^-\d(?!.*-.*)|^[^-]+$/;
+    const percentageRegex = /^[^%]*\d%$|^[^%]+$/;
+    const pointRegex = /^[^\.]*\d\.(?!.*\..*)|^[^\.]+$/;
+    let numLength = expression.match(numRegex) === null ? 0 : expression.match(numRegex).length;
+
+    if (expression.length > 0 && numLength <= 10) {
+        lengthTest = true;
+    }
+
+    if (minusRegex.test(expression) && percentageRegex.test(expression) && pointRegex.test(expression)) {
+        orderTest = true;
+    }
+
+    if (lengthTest && orderTest) {
+        return true;
+    }
+
+    return false;
+};
+/* --------------------------------------------------------------------------------------------------- */
+
