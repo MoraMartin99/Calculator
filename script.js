@@ -341,3 +341,38 @@ const operatorActions = (value) => {
 };
 /* --------------------------------------------------------------------------------------------------- */
 
+/* funciones de bajo nivel */
+/* --------------------------------------------------------------------------------------------------- */
+const addDivChild = (parent, classList) => {
+    const child = document.createElement("div");
+    child.classList.add(classList);
+    parent.append(child);
+};
+
+const removeChild = (parent, classList) => {
+    let children = parent.querySelectorAll(classList);
+    if (children) {
+        children = Array.from(children);
+        children.forEach((child) => {
+            child.remove();
+        });
+    }
+};
+
+const printAllEventListener = () => {
+    let elementArr = Array.from(document.querySelectorAll("body, body *"));
+    elementArr.forEach((element) => {
+        if (Object.keys(getEventListeners(element)).length > 0) {
+            console.log(getEventListeners(element));
+            console.log(element);
+        }
+    });
+};
+
+//previene el default focus del botón al hacer click y luego keypress
+buttonContainer.addEventListener("mousedown", (e) => {
+    e.preventDefault();
+});
+buttonContainer.addEventListener("click", clickHandler);
+document.addEventListener("keyup", keyboardHandler);
+/* --------------------------------------------------------------------------------------------------- */
