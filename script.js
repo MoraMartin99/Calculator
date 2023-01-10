@@ -194,3 +194,150 @@ const showPulseButton = (element, animationDuration) => {
 };
 /* --------------------------------------------------------------------------------------------------- */
 
+/* manejadores de eventos */
+/* --------------------------------------------------------------------------------------------------- */
+const clickHandler = (e) => {
+    let button = e.target;
+    if (button.matches(".btn, .btn *")) {
+        button = button.matches(".btn") ? button : button.parentElement;
+        buttonAction(button.id);
+        showPulseButton(button, "0.3s");
+    }
+};
+
+const keyboardHandler = (e) => {
+    const key = e.key;
+    const numReg = /^\d$/;
+    const delReg = /^Backspace$|^Delete$/;
+    const perReg = /^%$/;
+    const divReg = /^\/$/;
+    const mulReg = /^\*$/;
+    const subReg = /^-$/;
+    const addReg = /^\+$/;
+    const pointReg = /^\.$/;
+    const equalReg = /^=$|^Enter$/;
+    let keyid = null;
+
+    if (numReg.test(key)) {
+        keyid = "b" + key;
+    } else if (delReg.test(key)) {
+        keyid = "bDEL";
+    } else if (perReg.test(key)) {
+        keyid = "bPER";
+    } else if (divReg.test(key)) {
+        keyid = "bDIV";
+    } else if (mulReg.test(key)) {
+        keyid = "bMUL";
+    } else if (subReg.test(key)) {
+        keyid = "bSUB";
+    } else if (addReg.test(key)) {
+        keyid = "bADD";
+    } else if (pointReg.test(key)) {
+        keyid = "bPOINT";
+    } else if (equalReg.test(key)) {
+        e.preventDefault();
+        keyid = "bEQU";
+    }
+
+    if (keyid) {
+        buttonAction(keyid);
+        showPulseButton(document.querySelector(`#${keyid}`), "0.3s");
+    }
+};
+
+const buttonAction = (buttonID) => {
+    /*  const numberRegex = /(?<=b)\d/i;
+    const operatorRegex = /(?<=b)[-+*÷]/i; */
+    const actionTable = {
+        bAC: { value: allClear, type: "function" },
+        bDEL: { value: deleteChar, type: "function" },
+        bPER: { value: "%", type: "printable" },
+        bDIV: { value: "÷", type: "operator" },
+        bMUL: { value: "*", type: "operator" },
+        bSUB: { value: "-", type: "operator" },
+        bADD: { value: "+", type: "operator" },
+        bPOINT: { value: ".", type: "printable" },
+        bEQU: { value: "=", type: "total" },
+        b0: { value: "0", type: "printable" },
+        b1: { value: "1", type: "printable" },
+        b2: { value: "2", type: "printable" },
+        b3: { value: "3", type: "printable" },
+        b4: { value: "4", type: "printable" },
+        b5: { value: "5", type: "printable" },
+        b6: { value: "6", type: "printable" },
+        b7: { value: "7", type: "printable" },
+        b8: { value: "8", type: "printable" },
+        b9: { value: "9", type: "printable" },
+    };
+    if (displayContent.innerText === errMessage) {
+        allClear();
+    }
+
+    if (actionTable[buttonID].type == "printable") {
+        printableActions(actionTable[buttonID].value);
+    } else if (actionTable[buttonID].type == "operator") {
+        operatorActions(actionTable[buttonID].value);
+    } else if (actionTable[buttonID].type == "function") {
+        actionTable[buttonID].value();
+    } else if (actionTable[buttonID].type == "total") {
+        if (varA && operator && !varB && isValidNumber(displayContent.innerText)) {
+            varB = displayContent.innerText;
+            printResult();
+        } else if (varA && operator && varB) {
+            printResult();
+        }
+    }
+};
+
+const printableActions = (value) => {
+    const expression = displayContent.innerText + value;
+
+    if (isValidPseudoExp(expression)) {
+        if (!varA) {
+            addTextToDisplay(value);
+        } else if (varA && !operator) {
+            operator = displayContent.innerText;
+            displayContent.innerText = "";
+            addTextToDisplay(value);
+        } else if (varA && operator) {
+            addTextToDisplay(value);
+        }
+    }
+};
+
+const operatorActions = (value) => {
+    const fullOperatorReg = /^[+*÷-]$/;
+
+    if (!varA) {
+        if (isValidNumber(displayContent.innerText)) {
+            varA = displayContent.innerText;
+            displayContent.innerText = value;
+        } else if (displayContent.innerText === "" && value === "-") {
+            displayContent.innerText = value;
+        }
+    } else if (varA && !operator) {
+        if (displayContent.innerText === "") {
+            displayContent.innerText = value;
+        } else if (fullOperatorReg.test(displayContent.innerText) && value !== "-") {
+            displayContent.innerText = value;
+        } else if (fullOperatorReg.test(displayContent.innerText) && value === "-") {
+            operator = displayContent.innerText;
+            displayContent.innerText = value;
+        }
+    } else if (varA && operator && !varB) {
+        if (isValidNumber(displayContent.innerText)) {
+            varB = displayContent.innerText;
+            varA = getResult(parseVar(varA), parseVar(varB), getOperation(operator)).toString();
+            varB = null;
+            operator = null;
+            displayContent.innerText = value;
+        }
+    } else if (varA && operator && varB) {
+        varA = getResult(parseVar(varA), parseVar(varB), getOperation(operator)).toString();
+        varB = null;
+        operator = null;
+        displayContent.innerText = value;
+    }
+};
+/* --------------------------------------------------------------------------------------------------- */
+
