@@ -1,0 +1,2888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6000"
+   height="4000"
+   viewBox="0 0 1587.4999 1058.3333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logic mockup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="0.10467523"
+     inkscape:cx="3592.063"
+     inkscape:cy="1633.6244"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#7236a9"
+     transform="scale(2.0000001,1)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.916541;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect549"
+       width="793.74994"
+       height="1058.3333"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="content">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07369;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect2412-2-7"
+       width="33.472923"
+       height="172.33376"
+       x="56.593136"
+       y="732.06787" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect3625-8-5"
+       width="604.97675"
+       height="171.88142"
+       x="90.433083"
+       y="732.29407" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="70.837204"
+       y="825.67133"
+       id="text3629-97-3"><tspan
+         sodipodi:role="line"
+         id="tspan3627-3-5"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="70.837204"
+         y="825.67133">4</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect2412"
+       width="33.613724"
+       height="93.789673"
+       x="56.46043"
+       y="192.25819" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.752423;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect3625"
+       width="254.1913"
+       height="93.523209"
+       x="91.114563"
+       y="192.36792" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="70.774918"
+       y="242.01053"
+       id="text3629"><tspan
+         sodipodi:role="line"
+         id="tspan3627"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="70.774918"
+         y="242.01053">1</tspan></text>
+    <g
+       id="g4654"
+       transform="translate(129.52786,6.2785664)">
+      <g
+         id="g8853"
+         transform="translate(80.281272,6.2980336)">
+        <rect
+           style="fill:#cff9b5;fill-opacity:1;stroke-width:0.147912;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect4648"
+           width="45.116512"
+           height="17.372723"
+           x="27.647511"
+           y="29.617308" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="41.161167"
+           id="text4652"><tspan
+             sodipodi:role="line"
+             id="tspan4650"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="28.643536"
+             y="41.161167">resultado</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6467"
+       transform="translate(-1.4078344,-22.059135)">
+      <g
+         id="g3500"
+         transform="translate(-6.7014256,32.247407)">
+        <rect
+           style="fill:#cfb5f9;fill-opacity:1;stroke-width:0.131696;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect1753"
+           width="35.766132"
+           height="17.372723"
+           x="27.647511"
+           y="29.617308" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="40.684917"
+           id="text2341"><tspan
+             sodipodi:role="line"
+             id="tspan2339"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="28.643536"
+             y="40.684917">input A</tspan></text>
+      </g>
+      <g
+         id="g6347">
+        <rect
+           style="fill:#f5d480;fill-opacity:1;stroke-width:0.229651;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5740"
+           width="48.374882"
+           height="39.05801"
+           x="14.64171"
+           y="84.424812" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:100%;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;inline-size:46.8544;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="40.684917"
+           id="text5744"
+           transform="translate(-8.3871877,53.077148)"><tspan
+             x="28.643536"
+             y="40.684917"
+             id="tspan24319">value: STRING
+</tspan><tspan
+             x="28.643536"
+             y="45.44742"
+             id="tspan24321">
+</tspan><tspan
+             x="28.643536"
+             y="50.20992"
+             id="tspan24323">- &quot;32&quot;
+</tspan><tspan
+             x="28.643536"
+             y="54.972421"
+             id="tspan24325">- &quot;0.25&quot;
+</tspan><tspan
+             x="28.643536"
+             y="59.734922"
+             id="tspan24327">- &quot;-125&quot;
+</tspan><tspan
+             x="28.643536"
+             y="64.497423"
+             id="tspan24329">- &quot;25%&quot;</tspan></text>
+      </g>
+      <path
+         style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 38.829151,79.237434 v 5.187379"
+         id="path6403" />
+      <path
+         style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 38.829151,79.237434 c 0,5.187379 0,0 0,0 z"
+         id="path6405" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.829151,79.237434 v 5.187379"
+         id="path6454"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g578"
+       transform="translate(54.381427,-24.325976)">
+      <rect
+         style="fill:#cfb5f9;fill-opacity:1;stroke-width:0.162341;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1753-6"
+         width="54.347832"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text2341-2"><tspan
+           sodipodi:role="line"
+           id="tspan2339-9"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">varA = null</tspan></text>
+    </g>
+    <g
+       id="g6475"
+       transform="translate(149.71381,12.5766)">
+      <rect
+         style="fill:#f9b5e7;fill-opacity:1;stroke-width:0.131696;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6469"
+         width="35.766132"
+         height="17.372723"
+         x="27.647511"
+         y="29.617308" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="28.643536"
+         y="40.684917"
+         id="text6473"><tspan
+           sodipodi:role="line"
+           id="tspan6471"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="28.643536"
+           y="40.684917">input B</tspan></text>
+    </g>
+    <g
+       id="g6483"
+       transform="translate(156.41524,-19.670807)">
+      <rect
+         style="fill:#f5d480;fill-opacity:1;stroke-width:0.229651;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6477"
+         width="48.374882"
+         height="39.05801"
+         x="14.64171"
+         y="84.424812" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:100%;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;inline-size:46.8544;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="28.643536"
+         y="40.684917"
+         id="text6481"
+         transform="translate(-8.3871877,53.077148)"><tspan
+           x="28.643536"
+           y="40.684917"
+           id="tspan24331">value: STRING
+</tspan><tspan
+           x="28.643536"
+           y="45.44742"
+           id="tspan24333">
+</tspan><tspan
+           x="28.643536"
+           y="50.20992"
+           id="tspan24335">- &quot;32&quot;
+</tspan><tspan
+           x="28.643536"
+           y="54.972421"
+           id="tspan24337">- &quot;0.25&quot;
+</tspan><tspan
+           x="28.643536"
+           y="59.734922"
+           id="tspan24339">- &quot;-125&quot;
+</tspan><tspan
+           x="28.643536"
+           y="64.497423"
+           id="tspan24341">- &quot;25%&quot;</tspan></text>
+    </g>
+    <path
+       style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 195.24439,59.566627 v 5.187379"
+       id="path6485" />
+    <path
+       style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 195.24439,59.566627 c 0,5.187379 0,0 0,0 z"
+       id="path6487" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 195.24439,59.566627 v 5.187379"
+       id="path6489"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.7px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="333.27283"
+       y="174.63397"
+       id="text6473-7"><tspan
+         sodipodi:role="line"
+         id="tspan6471-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.7px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="333.27283"
+         y="174.63397">Caso 1</tspan></text>
+    <g
+       id="g8464"
+       transform="translate(-72.038494,-31.359997)">
+      <g
+         id="g7081"
+         transform="translate(133.87834,39.447162)">
+        <rect
+           style="fill:#b5f9ef;fill-opacity:1;stroke-width:0.142832;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect7075"
+           width="42.070507"
+           height="17.372723"
+           x="27.647511"
+           y="29.617308" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="40.684917"
+           id="text7079"><tspan
+             sodipodi:role="line"
+             id="tspan7077"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="28.643536"
+             y="40.684917">operador</tspan></text>
+      </g>
+      <g
+         id="g7089"
+         transform="translate(127.42188,7.1997557)">
+        <rect
+           style="fill:#f5d480;fill-opacity:1;stroke-width:0.399508;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect7083"
+           width="80.995018"
+           height="70.596977"
+           x="14.64171"
+           y="84.424812" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:100%;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;inline-size:72.1717;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="40.684917"
+           id="text7087"
+           transform="translate(-8.3871877,53.077148)"><tspan
+             x="28.643536"
+             y="40.684917"
+             id="tspan24343">value: STRING
+</tspan><tspan
+             x="28.643536"
+             y="45.44742"
+             id="tspan24345">
+</tspan><tspan
+             x="28.643536"
+             y="50.20992"
+             id="tspan24347">operador unitario
+</tspan><tspan
+             x="28.643536"
+             y="54.972421"
+             id="tspan24349">
+</tspan><tspan
+             x="28.643536"
+             y="59.734922"
+             id="tspan24351">- &quot;-&quot; (numeros negativos)
+</tspan><tspan
+             x="28.643536"
+             y="64.497423"
+             id="tspan24353">- &quot;%&quot;
+</tspan><tspan
+             x="28.643536"
+             y="69.25992"
+             id="tspan24355">
+</tspan><tspan
+             x="28.643536"
+             y="74.022417"
+             id="tspan24357">operador binario
+</tspan><tspan
+             x="28.643536"
+             y="78.784913"
+             id="tspan24359">
+</tspan><tspan
+             x="28.643536"
+             y="83.54741"
+             id="tspan24361">- &quot;-&quot;
+</tspan><tspan
+             x="28.643536"
+             y="88.309907"
+             id="tspan24363">- &quot;+&quot;
+</tspan><tspan
+             x="28.643536"
+             y="93.072404"
+             id="tspan24365">- &quot;*&quot;
+</tspan><tspan
+             x="28.643536"
+             y="97.834901"
+             id="tspan24367">- &quot;/&quot;
+</tspan></text>
+      </g>
+      <path
+         style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 176.13333,86.437189 v 5.187379"
+         id="path7091" />
+      <path
+         style="fill:#f5d480;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 176.13333,86.437189 c 0,5.187379 0,0 0,0 z"
+         id="path7093" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 182.5611,86.437191 v 5.187376"
+         id="path8451"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g586"
+       transform="translate(51.988436,18.010802)">
+      <rect
+         style="fill:#f9b5d4;fill-opacity:1;stroke-width:0.162341;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect580"
+         width="54.347832"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text584"><tspan
+           sodipodi:role="line"
+           id="tspan582"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">varB = null</tspan></text>
+    </g>
+    <g
+       id="g1997"
+       transform="translate(50.951332,41.743611)">
+      <rect
+         style="fill:#bcf9b5;fill-opacity:1;stroke-width:0.200622;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991"
+         width="83.000969"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995"><tspan
+           sodipodi:role="line"
+           id="tspan1993"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">resultado = null</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="124.30312"
+       y="23.092506"
+       id="text2121"><tspan
+         sodipodi:role="line"
+         id="tspan2119"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="124.30312"
+         y="23.092506">Elementos</tspan></text>
+    <g
+       id="g5185"
+       transform="translate(53.463552,-1.6790832)">
+      <rect
+         style="fill:#b5eaf9;fill-opacity:1;stroke-width:0.188945;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect5179"
+         width="73.620094"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text5183"><tspan
+           sodipodi:role="line"
+           id="tspan5181"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">operador = null</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect5955"
+       width="33.613724"
+       height="93.789673"
+       x="56.46043"
+       y="288.03021" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect5957"
+       width="410.70407"
+       height="93.220947"
+       x="91.265694"
+       y="288.29108" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="70.774918"
+       y="337.78253"
+       id="text5961"><tspan
+         sodipodi:role="line"
+         id="tspan5959"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="70.774918"
+         y="337.78253">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.7625px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#b5eaf9;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       x="175.35684"
+       y="333.42255"
+       id="text6099"><tspan
+         sodipodi:role="line"
+         id="tspan6097"
+         style="stroke-width:0.79375"
+         x="175.35684"
+         y="333.42255" /></text>
+    <g
+       id="g6765"
+       transform="translate(-87.033365,49.788415)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6254"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6200"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g6771"
+       transform="translate(-66.922502,73.243076)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g6777"
+       transform="translate(-87.033365,91.996027)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6773"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6775"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g6777-6"
+       transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-403.71756,1338.805)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6773-1"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6775-0"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g7497"
+       transform="translate(-12.183183,1.0046233)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.834143;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785"
+         width="118.58497"
+         height="93.933258"
+         x="254.36427"
+         y="286.93027" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:104.885;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6"
+         transform="translate(-17.302495,-26.75789)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24371"><tspan
+             dx="0 0 0 2.8794408 0 0 0 2.8794417 0 0 2.8794417 0 0 0 2.8794417 0 0 2.8794417"
+             id="tspan24369">De uno en uno se le </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24375"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 4.8173499 0 0 4.8173537"
+             id="tspan24373">solicitan al usuario </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24379"><tspan
+             dx="0 0 0 0 42.972225"
+             id="tspan24377">las variables </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24383"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.8722014"
+             id="tspan24381">correspondientes, los </tspan></tspan><tspan
+           x="277.76547"
+           y="372.5946"
+           id="tspan24387"><tspan
+             dx="0 0 0 0 0 0 11.961107 0 0 0 0 0 0 0 11.961107"
+             id="tspan24385">input deberan ser </tspan></tspan><tspan
+           x="277.76547"
+           y="382.91335"
+           id="tspan24391"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.036565304 0 0 0 0 0.036569118 0 0 0 0 0 0.036569118"
+             id="tspan24389">validados para pasar a </tspan></tspan><tspan
+           x="277.76547"
+           y="393.23211"
+           id="tspan24393">la siguiente variable</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect7979"
+       width="33.031353"
+       height="349.08255"
+       x="57.872257"
+       y="385.10205" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect7981"
+       width="542.26062"
+       height="348.1355"
+       x="91.746498"
+       y="383.45883" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="70.086998"
+       y="526.05927"
+       id="text7985"><tspan
+         sodipodi:role="line"
+         id="tspan7983"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="70.086998"
+         y="526.05927">3</tspan></text>
+    <g
+       id="g356"
+       transform="translate(-3.8743019e-7,-15.623528)">
+      <g
+         id="g8655-1"
+         transform="translate(22.542925,-91.141054)">
+        <rect
+           style="fill:#b5bef9;fill-opacity:1;stroke-width:0.365711;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5979-6-8"
+           width="84.502441"
+           height="56.703003"
+           x="90.539505"
+           y="500.81512" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="288.85425"
+           y="445.02908"
+           id="text5967-6-7"
+           transform="translate(-189.40031,71.179568)"><tspan
+             x="288.85425"
+             y="445.02908"
+             id="tspan24395">parseInput(a){
+</tspan><tspan
+             x="288.85425"
+             y="452.9666"
+             id="tspan24397">
+</tspan><tspan
+             x="288.85425"
+             y="460.9041"
+             id="tspan24399">return NUMBER
+</tspan><tspan
+             x="288.85425"
+             y="468.8416"
+             id="tspan24401">
+</tspan><tspan
+             x="288.85425"
+             y="476.7791"
+             id="tspan24403">}
+</tspan></text>
+      </g>
+      <g
+         id="g7497-9"
+         transform="translate(-31.744612,112.46219)">
+        <g
+           id="g10767"
+           transform="translate(-17.30424,3.2812109)">
+          <rect
+             style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.904647;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+             id="rect6785-2"
+             width="185.30215"
+             height="70.703804"
+             x="254.36427"
+             y="286.93027" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+             x="277.76547"
+             y="331.31958"
+             id="text6789-6-0"
+             transform="translate(-17.302495,-26.75789)"><tspan
+               x="277.76547"
+               y="331.31958"
+               id="tspan24407"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 4.2771773 0 0 0 0 0 0 0 0 0 0 4.277185 0 0 4.277185"
+                 id="tspan24405">parseInput() transforma un STRING </tspan></tspan><tspan
+               x="277.76547"
+               y="341.63833"
+               id="tspan24411"><tspan
+                 dx="0 0 0 6.1073422 0 0 6.1073413 0 0 0 0 0 0 0 6.1073394 0 0 6.1073394 0 0 0 0 6.1073394 0 0 0 6.1073394"
+                 id="tspan24409">en un numero. en caso que la </tspan></tspan><tspan
+               x="277.76547"
+               y="351.95709"
+               id="tspan24415"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 9.0396824 0 0 0 0 0 0 0 0 9.0396824 0 0 0 0 9.03969"
+                 id="tspan24413">expresion contenga &quot;%&quot;, debera </tspan></tspan><tspan
+               x="277.76547"
+               y="362.27584"
+               id="tspan24419"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 20.703279 0 0 20.703279"
+                 id="tspan24417">realizar la correspondiente </tspan></tspan><tspan
+               x="277.76547"
+               y="372.5946"
+               id="tspan24421">transformacion: a/1000</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g356-3"
+       transform="translate(-26.301431,194.1066)">
+      <g
+         id="g8655-1-6"
+         transform="translate(-108.73297,-211.05389)">
+        <g
+           id="g724"
+           transform="translate(148.17818,-6.9991933)">
+          <rect
+             style="fill:#b5bef9;fill-opacity:1;stroke-width:0.610591;paint-order:stroke fill markers;stop-color:#000000"
+             id="rect5979-6-8-7"
+             width="132.12749"
+             height="101.08968"
+             x="90.539505"
+             y="500.81512" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+             x="288.85425"
+             y="445.02908"
+             id="text5967-6-7-5"
+             transform="translate(-189.40031,71.179568)"><tspan
+               x="288.85425"
+               y="445.02908"
+               id="tspan24423">getOperation (operador){
+</tspan><tspan
+               x="288.85425"
+               y="452.9666"
+               id="tspan24425">
+</tspan><tspan
+               x="288.85425"
+               y="460.9041"
+               id="tspan24427">if(operador == &quot;+&quot;){
+</tspan><tspan
+               x="288.85425"
+               y="468.8416"
+               id="tspan24429">
+</tspan><tspan
+               x="288.85425"
+               y="476.7791"
+               id="tspan24431">return addition
+</tspan><tspan
+               x="288.85425"
+               y="484.7166"
+               id="tspan24433">
+</tspan><tspan
+               x="288.85425"
+               y="492.6541"
+               id="tspan24435">}
+</tspan><tspan
+               x="288.85425"
+               y="500.5916"
+               id="tspan24437">
+</tspan><tspan
+               x="288.85425"
+               y="508.5291"
+               id="tspan24439">...
+</tspan><tspan
+               x="288.85425"
+               y="516.4666"
+               id="tspan24441">
+</tspan><tspan
+               x="288.85425"
+               y="524.40413"
+               id="tspan24443">}
+</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g865"
+       transform="translate(19.579172,10.054166)">
+      <g
+         id="g5969"
+         transform="translate(54.381427,71.446029)">
+        <rect
+           style="fill:#cfb5f9;fill-opacity:1;stroke-width:0.175763;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5963"
+           width="63.706154"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text5967"><tspan
+             sodipodi:role="line"
+             id="tspan5965"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">varA = STRING</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="99.762184"
+         y="304.37527"
+         id="text3629-9"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="99.762184"
+           y="304.37527">1</tspan></text>
+    </g>
+    <g
+       id="g873"
+       transform="translate(19.579172,10.054166)">
+      <g
+         id="g5993"
+         transform="translate(53.463552,94.092922)">
+        <rect
+           style="fill:#b5eaf9;fill-opacity:1;stroke-width:0.203483;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5987"
+           width="85.385201"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text5991"><tspan
+             sodipodi:role="line"
+             id="tspan5989"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">operador = STRING</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="99.762184"
+         y="327.16107"
+         id="text3629-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1-9"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="99.762184"
+           y="327.16107">2</tspan></text>
+    </g>
+    <g
+       id="g881"
+       transform="translate(19.579172,10.054166)">
+      <g
+         id="g5977"
+         transform="translate(51.988436,113.78281)">
+        <rect
+           style="fill:#f9b5d4;fill-opacity:1;stroke-width:0.177235;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5971"
+           width="64.777679"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text5975"><tspan
+             sodipodi:role="line"
+             id="tspan5973"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">varB = STRING</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="98.244537"
+         y="346.68033"
+         id="text3629-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1-6"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="98.244537"
+           y="346.68033">3</tspan></text>
+    </g>
+    <g
+       id="g2138"
+       transform="translate(-3.4262884,38.743982)">
+      <rect
+         style="fill:#ff9800;fill-opacity:1;stroke:none;stroke-width:0.682035;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-1"
+         width="118.58497"
+         height="62.79882"
+         x="374.80585"
+         y="268.37253" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:105.033;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-6"
+         transform="translate(103.6772,-44.029367)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24447"><tspan
+             dx="0 0 0 0 0 0.064534664 0 0 0 0 0.064534664 0 0 0.064534664 0 0 0 0 0 0 0.064538479"
+             id="tspan24445">Este caso se cumple si </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24451"><tspan
+             dx="0 0 0 16.797831 0 0 0 0 0 0 16.797827"
+             id="tspan24449">el primer valor </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24455"><tspan
+             dx="0 0 0 0 0 0 0 0 5.0206428"
+             id="tspan24453">llenado correctamente </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24457">es varA</tspan></text>
+    </g>
+    <g
+       id="g7497-8"
+       transform="translate(-8.4052618,-82.40012)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.548337;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-7"
+         width="118.58497"
+         height="40.591385"
+         x="219.6344"
+         y="301.23395" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:104.885;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-9"
+         transform="translate(-51.412088,-17.727442)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24461"><tspan
+             dx="0 0 0 1.6240678 0 0 0 0 0 0 0 1.6240668 0 0 0 0 1.624063"
+             id="tspan24459">Al empezar cada ciclo </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24465"><tspan
+             dx="0 0 0 0 2.4361014 0 0 0 0 0 0 0 0 0 2.4361053"
+             id="tspan24463">las variables deberan </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24467">empezar en null </tspan></text>
+    </g>
+    <g
+       id="g3756"
+       transform="translate(-86.821648,-97.366901)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.834931;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-2-2"
+         width="185.30215"
+         height="60.226299"
+         x="331.99573"
+         y="594.66724" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-0-0"
+         transform="translate(61.677734,280.97908)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24471"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 4.2771773 0 0 0 0 0 0 0 4.2771773 0 0 4.2771773"
+             id="tspan24469">getOperation retorna la operacion </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24475"><tspan
+             dx="0 0 0 0 0 0 0 0 0 4.3985114 0 0 4.3985114 0 0 0 0 0 0 0 0 4.3985076 0 0 0 0 0 0 0 0 4.3985076"
+             id="tspan24473">asociada al operador binario, de </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24479"><tspan
+             dx="0 0 0 0 0 0.66130781 0 0 0 0 0 0 0.6613059 0 0 0.66130972 0 0 0 0 0 0.66130209 0 0 0 0 0 0 0 0 0.66130972"
+             id="tspan24477">esta manera se podra utilizar luego </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24481">como callback</tspan></text>
+    </g>
+    <g
+       id="g6454"
+       transform="translate(-3.8743019e-7,-15.623528)">
+      <g
+         id="g8655"
+         transform="translate(11.302188,110.00787)">
+        <rect
+           style="fill:#b5bef9;fill-opacity:1;stroke-width:0.489232;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5979-6"
+           width="151.22452"
+           height="56.703003"
+           x="90.539505"
+           y="500.81512" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="288.85425"
+           y="445.02908"
+           id="text5967-6"
+           transform="translate(-189.40031,71.179568)"><tspan
+             x="288.85425"
+             y="445.02908"
+             id="tspan24483">getResult = (a,b,operacion){
+</tspan><tspan
+             x="288.85425"
+             y="452.9666"
+             id="tspan24485">
+</tspan><tspan
+             x="288.85425"
+             y="460.9041"
+             id="tspan24487">return operacion(a,b)
+</tspan><tspan
+             x="288.85425"
+             y="468.8416"
+             id="tspan24489">
+</tspan><tspan
+             x="288.85425"
+             y="476.7791"
+             id="tspan24491">}
+</tspan></text>
+      </g>
+      <g
+         id="g3756-2"
+         transform="translate(-75.257089,18.029317)">
+        <rect
+           style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.764567;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6785-2-2-3"
+           width="185.30215"
+           height="50.502853"
+           x="331.99573"
+           y="594.66724" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="277.76547"
+           y="331.31958"
+           id="text6789-6-0-0-7"
+           transform="translate(61.677734,280.97908)"><tspan
+             x="277.76547"
+             y="331.31958"
+             id="tspan24495"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0.55108786 0 0 0 0 0 0 0.55109549 0 0.55108786 0 0 0 0 0 0 0 0.55109549 0 0 0 0.55108023 0 0 0.55109549"
+               id="tspan24493">getResult recibe 2 numeros (a, b) y </tspan></tspan><tspan
+             x="277.76547"
+             y="341.63833"
+             id="tspan24499"><tspan
+               dx="0 0 0 0 0 0 0 0 3.2078872 0 0 3.2078872 0 0 0 0 0 0 0 0 0 3.2078872 0 0 0 3.2078872"
+               id="tspan24497">retorna el resultado del callback </tspan></tspan><tspan
+             x="277.76547"
+             y="351.95709"
+             id="tspan24501">operacion</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#bcf9b5;fill-opacity:1;stroke-width:0.493726;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0"
+       width="214.94463"
+       height="40.629593"
+       x="107.36233"
+       y="669.14362" />
+    <rect
+       style="fill:#e1f684;fill-opacity:1;stroke-width:0.337494;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0-3"
+       width="100.4351"
+       height="40.629593"
+       x="143.08115"
+       y="764.86401" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:204.413;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6"
+       transform="translate(58.423393,455.16391)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24505"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 9.3382206 0 9.3382244"
+           id="tspan24503">resultado = getResult(parseInput(varA), </tspan></tspan><tspan
+         x="53.887424"
+         y="240.962"
+         id="tspan24507">parseInput(varB), getOperation(operador))</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:204.413;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6-0"
+       transform="translate(103.97499,554.53556)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24509">si digita &quot;=&quot;</tspan></text>
+    <g
+       id="g672"
+       transform="translate(99.833044,-211.31112)" />
+    <g
+       id="g2138-8"
+       transform="translate(95.068295,229.39469)">
+      <rect
+         style="fill:#ffee00;fill-opacity:1;stroke:none;stroke-width:0.544668;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-1-4"
+         width="118.58497"
+         height="40.049885"
+         x="374.80585"
+         y="268.37253" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:105.033;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-6-5"
+         transform="translate(103.6772,-44.029367)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24513"><tspan
+             dx="0 0 0 0 0 4.8485484 0 0 0 0 4.8485465 0 0 4.8485427"
+             id="tspan24511">ESte paso se aplica </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24515">segun se requiere</tspan></text>
+    </g>
+    <rect
+       style="fill:#f6d984;fill-opacity:1;stroke-width:0.337494;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0-3-6"
+       width="100.4351"
+       height="40.629593"
+       x="298.18726"
+       y="764.86401" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:85.6538;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6-0-3"
+       transform="translate(253.78941,548.71474)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24519"><tspan
+           dx="0 0 0 11.870878 0 0 0 0 0 0 0 11.870882"
+           id="tspan24517">se calcula el </tspan></tspan><tspan
+         x="53.887424"
+         y="240.962"
+         id="tspan24523"><tspan
+           dx="0 0 0 0 0 23.777138 0 23.777136"
+           id="tspan24521">paso 3 y </tspan></tspan><tspan
+         x="53.887424"
+         y="248.8995"
+         id="tspan24525">print(resultado)</tspan></text>
+    <g
+       id="g10773"
+       transform="translate(-56.972925,-11.137139)">
+      <rect
+         style="fill:#84c0f6;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1"
+         width="85.934845"
+         height="31.943256"
+         x="493.64435"
+         y="751.44342" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5"
+         transform="translate(446.88591,532.803)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24529"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24527">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24531">numero</tspan></text>
+      <rect
+         style="fill:#84ecf6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5"
+         width="85.934845"
+         height="46.587868"
+         x="634.53113"
+         y="747.58643" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4"
+         transform="translate(587.77273,528.94599)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24535"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24533">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24539"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24537">caso 1 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24543"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24541">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24545">varA</tspan></text>
+      <g
+         id="g6777-6-7"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-69.579725,1318.8441)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <g
+       id="g10783"
+       transform="translate(-39.691278,-42.28608)">
+      <rect
+         style="fill:#f684aa;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0"
+         width="85.934845"
+         height="31.943256"
+         x="476.3627"
+         y="841.10052" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6"
+         transform="translate(429.6043,622.46016)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24549"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24547">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24551">operador</tspan></text>
+      <rect
+         style="fill:#9f84f6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5-6"
+         width="85.934845"
+         height="46.587868"
+         x="618.42719"
+         y="832.7887" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4-9"
+         transform="translate(571.66877,614.14821)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24555"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24553">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24559"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24557">caso 2 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24563"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24561">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24565">operador</tspan></text>
+      <g
+         id="g6777-6-7-3"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-84.949694,1410.6983)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6-7"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5-4"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <g
+       id="g10882"
+       transform="matrix(1.5079057,-1.3013699,1.0429198,1.2084379,-293.60393,875.51721)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767-2"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769-5"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g10882-4"
+       transform="matrix(1.2433944,1.5560571,1.2470265,-0.99645812,-271.7163,565.93745)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767-2-7"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769-5-4"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="129.45663"
+       y="788.60779"
+       id="text3629-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan3627-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="129.45663"
+         y="788.60779">1</tspan></text>
+    <g
+       id="g10783-2"
+       transform="translate(-330.84962,6.564159)">
+      <rect
+         style="fill:#f684aa;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-0"
+         width="85.934845"
+         height="31.943256"
+         x="476.3627"
+         y="841.10052" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-6"
+         transform="translate(429.6043,622.46016)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24569"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24567">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24571">operador</tspan></text>
+      <rect
+         style="fill:#9f84f6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5-6-8"
+         width="85.934845"
+         height="46.587868"
+         x="618.42719"
+         y="832.7887" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4-9-9"
+         transform="translate(571.66877,614.14821)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24575"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24573">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24579"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24577">caso 2 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24583"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24581">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24585">operador</tspan></text>
+      <g
+         id="g6777-6-7-3-2"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-84.949694,1410.6983)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6-7-6"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5-4-6"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="131.84483"
+       y="870.5896"
+       id="text3629-9-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan3627-1-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="131.84483"
+         y="870.5896">2</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect2412-0"
+       width="33.613724"
+       height="93.789673"
+       x="822.64514"
+       y="206.69107" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.85796;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect3625-4"
+       width="330.87238"
+       height="93.417671"
+       x="857.35205"
+       y="206.85358" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="836.95966"
+       y="256.44342"
+       id="text3629-8"><tspan
+         sodipodi:role="line"
+         id="tspan3627-7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="836.95966"
+         y="256.44342">1</tspan></text>
+    <g
+       id="g578-1"
+       transform="translate(820.56618,-9.8931057)">
+      <rect
+         style="fill:#cfb5f9;fill-opacity:1;stroke-width:0.255519;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1753-6-7"
+         width="134.63957"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text2341-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2339-9-7"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">varA = resultado <tspan
+   style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Medium Italic'"
+   id="tspan16012">(anterior)</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.7px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="1099.4575"
+       y="189.06686"
+       id="text6473-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan6471-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.7px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="1099.4575"
+         y="189.06686">Caso 2</tspan></text>
+    <g
+       id="g586-6"
+       transform="translate(818.17319,32.443675)">
+      <rect
+         style="fill:#f9b5d4;fill-opacity:1;stroke-width:0.162341;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect580-1"
+         width="54.347832"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text584-0"><tspan
+           sodipodi:role="line"
+           id="tspan582-6"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">varB = null</tspan></text>
+    </g>
+    <g
+       id="g1997-1"
+       transform="translate(817.13608,56.176479)">
+      <rect
+         style="fill:#bcf9b5;fill-opacity:1;stroke-width:0.200622;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-5"
+         width="83.000969"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-9"><tspan
+           sodipodi:role="line"
+           id="tspan1993-4"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">resultado = null</tspan></text>
+    </g>
+    <g
+       id="g5185-9"
+       transform="translate(819.6483,12.753793)">
+      <rect
+         style="fill:#b5eaf9;fill-opacity:1;stroke-width:0.188945;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect5179-0"
+         width="73.620094"
+         height="17.372723"
+         x="52.891399"
+         y="221.95689" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text5183-9"><tspan
+           sodipodi:role="line"
+           id="tspan5181-1"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="53.887424"
+           y="233.02451">operador = null</tspan></text>
+    </g>
+    <g
+       id="g7497-8-3"
+       transform="translate(817.89575,-81.343766)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.721709;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-7-6"
+         width="118.58497"
+         height="70.317345"
+         x="219.6344"
+         y="301.23395" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:104.885;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-9-5"
+         transform="translate(-51.412088,-17.727442)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24589"><tspan
+             dx="0 0 0 1.6240678 0 0 0 0 0 0 0 1.6240668 0 0 0 0 1.624063"
+             id="tspan24587">Al empezar cada ciclo </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24593"><tspan
+             dx="0 0 0 0 2.4361014 0 0 0 0 0 0 0 0 0 2.4361053"
+             id="tspan24591">las variables deberan </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24597"><tspan
+             dx="0 0 0 0 0 0 0 0 14.34236 0 0 14.342356"
+             id="tspan24595">empezar en null, </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24601"><tspan
+             dx="0 0 0 0 0 0 0 0 14.34236 0 0 0 0 14.342363"
+             id="tspan24599">excepto varA que </tspan></tspan><tspan
+           x="277.76547"
+           y="372.5946"
+           id="tspan24605"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.054849148 0 0 0.054849148"
+             id="tspan24603">contendra el resultado </tspan></tspan><tspan
+           x="277.76547"
+           y="382.91335"
+           id="tspan24607">del ciclo anterior </tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect5955-6"
+       width="33.613724"
+       height="93.789673"
+       x="822.37646"
+       y="295.60092" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect5957-3"
+       width="407.43903"
+       height="93.224091"
+       x="857.18024"
+       y="295.8602" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="836.69098"
+       y="345.35327"
+       id="text5961-9"><tspan
+         sodipodi:role="line"
+         id="tspan5959-4"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="836.69098"
+         y="345.35327">2</tspan></text>
+    <g
+       id="g6771-9"
+       transform="translate(698.56586,58.756232)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767-3"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769-9"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g6777-0"
+       transform="translate(678.455,77.50918)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6773-8"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6775-8"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g7497-5"
+       transform="translate(753.73288,8.5758334)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.834143;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-0"
+         width="118.58497"
+         height="93.933258"
+         x="254.36427"
+         y="286.93027" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:104.885;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-96"
+         transform="translate(-17.302495,-26.75789)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24611"><tspan
+             dx="0 0 0 2.8794408 0 0 0 2.8794417 0 0 2.8794417 0 0 0 2.8794417 0 0 2.8794417"
+             id="tspan24609">De uno en uno se le </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24615"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 4.8173499 0 0 4.8173537"
+             id="tspan24613">solicitan al usuario </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24619"><tspan
+             dx="0 0 0 0 42.972225"
+             id="tspan24617">las variables </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24623"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.8722014"
+             id="tspan24621">correspondientes, los </tspan></tspan><tspan
+           x="277.76547"
+           y="372.5946"
+           id="tspan24627"><tspan
+             dx="0 0 0 0 0 0 11.961107 0 0 0 0 0 0 0 11.961107"
+             id="tspan24625">input deberan ser </tspan></tspan><tspan
+           x="277.76547"
+           y="382.91335"
+           id="tspan24631"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.036565304 0 0 0 0 0.036569118 0 0 0 0 0 0.036569118"
+             id="tspan24629">validados para pasar a </tspan></tspan><tspan
+           x="277.76547"
+           y="393.23211"
+           id="tspan24633">la siguiente variable</tspan></text>
+    </g>
+    <g
+       id="g873-4"
+       transform="translate(785.06753,-4.4326762)">
+      <g
+         id="g5993-8"
+         transform="translate(53.463552,94.092922)">
+        <rect
+           style="fill:#b5eaf9;fill-opacity:1;stroke-width:0.203483;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5987-1"
+           width="85.385201"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text5991-0"><tspan
+             sodipodi:role="line"
+             id="tspan5989-3"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">operador = STRING</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="99.762184"
+         y="327.16107"
+         id="text3629-9-0-0"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1-9-4"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="99.762184"
+           y="327.16107">1</tspan></text>
+    </g>
+    <g
+       id="g881-4"
+       transform="translate(785.06753,-4.4326762)">
+      <g
+         id="g5977-4"
+         transform="translate(51.988436,113.78281)">
+        <rect
+           style="fill:#f9b5d4;fill-opacity:1;stroke-width:0.177235;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5971-4"
+           width="64.777679"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text5975-7"><tspan
+             sodipodi:role="line"
+             id="tspan5973-6"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">varB = STRING</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="98.244537"
+         y="346.68033"
+         id="text3629-9-3-3"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1-6-1"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="98.244537"
+           y="346.68033">2</tspan></text>
+    </g>
+    <g
+       id="g2138-7"
+       transform="translate(762.48977,46.315188)">
+      <rect
+         style="fill:#ff9800;fill-opacity:1;stroke:none;stroke-width:0.682035;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-1-5"
+         width="118.58497"
+         height="62.79882"
+         x="374.80585"
+         y="268.37253" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:105.033;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-6-9"
+         transform="translate(103.6772,-44.029367)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24637"><tspan
+             dx="0 0 0 0 0 0.064534664 0 0 0 0 0.064534664 0 0 0.064534664 0 0 0 0 0 0 0.064538479"
+             id="tspan24635">Este caso se cumple si </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24641"><tspan
+             dx="0 0 0 16.797831 0 0 0 0 0 0 16.797827"
+             id="tspan24639">el primer valor </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24645"><tspan
+             dx="0 0 0 0 0 0 0 0 5.0206428"
+             id="tspan24643">llenado correctamente </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24647">es operador</tspan></text>
+    </g>
+    <g
+       id="g16646"
+       transform="translate(25.712569,-39.943464)">
+      <g
+         id="g578-1-7"
+         transform="translate(789.70441,178.72907)">
+        <rect
+           style="fill:#cfb5f9;fill-opacity:1;stroke-width:0.255519;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect1753-6-7-8"
+           width="134.63957"
+           height="17.372723"
+           x="52.891399"
+           y="221.95689" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="53.887424"
+           y="233.02451"
+           id="text2341-2-2-5"><tspan
+             sodipodi:role="line"
+             id="tspan2339-9-7-7"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="53.887424"
+             y="233.02451">varA = resultado <tspan
+   style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Medium Italic'"
+   id="tspan16012-4">(anterior)</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:6.35px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="836.5434"
+         y="411.1662"
+         id="text3629-9-3-3-1"><tspan
+           sodipodi:role="line"
+           id="tspan3627-1-6-1-8"
+           style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="836.5434"
+           y="411.1662">!</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect7979-5"
+       width="33.031353"
+       height="349.08255"
+       x="822.11597"
+       y="391.03384" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect7981-9"
+       width="542.26062"
+       height="348.1355"
+       x="855.99017"
+       y="389.39062" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="834.33069"
+       y="531.99164"
+       id="text7985-7"><tspan
+         sodipodi:role="line"
+         id="tspan7983-5"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="834.33069"
+         y="531.99164">3</tspan></text>
+    <g
+       id="g356-38"
+       transform="translate(764.24367,-9.6912427)">
+      <g
+         id="g8655-1-8"
+         transform="translate(22.542925,-91.141054)">
+        <rect
+           style="fill:#b5bef9;fill-opacity:1;stroke-width:0.365711;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5979-6-8-3"
+           width="84.502441"
+           height="56.703003"
+           x="90.539505"
+           y="500.81512" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="288.85425"
+           y="445.02908"
+           id="text5967-6-7-1"
+           transform="translate(-189.40031,71.179568)"><tspan
+             x="288.85425"
+             y="445.02908"
+             id="tspan24649">parseInput(a){
+</tspan><tspan
+             x="288.85425"
+             y="452.9666"
+             id="tspan24651">
+</tspan><tspan
+             x="288.85425"
+             y="460.9041"
+             id="tspan24653">return NUMBER
+</tspan><tspan
+             x="288.85425"
+             y="468.8416"
+             id="tspan24655">
+</tspan><tspan
+             x="288.85425"
+             y="476.7791"
+             id="tspan24657">}
+</tspan></text>
+      </g>
+      <g
+         id="g7497-9-8"
+         transform="translate(-31.744612,112.46219)">
+        <g
+           id="g10767-9"
+           transform="translate(-17.30424,3.2812109)">
+          <rect
+             style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.904647;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+             id="rect6785-2-6"
+             width="185.30215"
+             height="70.703804"
+             x="254.36427"
+             y="286.93027" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+             x="277.76547"
+             y="331.31958"
+             id="text6789-6-0-4"
+             transform="translate(-17.302495,-26.75789)"><tspan
+               x="277.76547"
+               y="331.31958"
+               id="tspan24661"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 4.2771773 0 0 0 0 0 0 0 0 0 0 4.277185 0 0 4.277185"
+                 id="tspan24659">parseInput() transforma un STRING </tspan></tspan><tspan
+               x="277.76547"
+               y="341.63833"
+               id="tspan24665"><tspan
+                 dx="0 0 0 6.1073422 0 0 6.1073413 0 0 0 0 0 0 0 6.1073394 0 0 6.1073394 0 0 0 0 6.1073394 0 0 0 6.1073394"
+                 id="tspan24663">en un numero. en caso que la </tspan></tspan><tspan
+               x="277.76547"
+               y="351.95709"
+               id="tspan24669"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 9.0396824 0 0 0 0 0 0 0 0 9.0396824 0 0 0 0 9.03969"
+                 id="tspan24667">expresion contenga &quot;%&quot;, debera </tspan></tspan><tspan
+               x="277.76547"
+               y="362.27584"
+               id="tspan24673"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 20.703279 0 0 20.703279"
+                 id="tspan24671">realizar la correspondiente </tspan></tspan><tspan
+               x="277.76547"
+               y="372.5946"
+               id="tspan24675">transformacion: a/1000</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g356-3-3"
+       transform="translate(737.94224,200.03879)">
+      <g
+         id="g8655-1-6-3"
+         transform="translate(-108.73297,-211.05389)">
+        <g
+           id="g724-3"
+           transform="translate(148.17818,-6.9991933)">
+          <rect
+             style="fill:#b5bef9;fill-opacity:1;stroke-width:0.610591;paint-order:stroke fill markers;stop-color:#000000"
+             id="rect5979-6-8-7-8"
+             width="132.12749"
+             height="101.08968"
+             x="90.539505"
+             y="500.81512" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+             x="288.85425"
+             y="445.02908"
+             id="text5967-6-7-5-6"
+             transform="translate(-189.40031,71.179568)"><tspan
+               x="288.85425"
+               y="445.02908"
+               id="tspan24677">getOperation (operador){
+</tspan><tspan
+               x="288.85425"
+               y="452.9666"
+               id="tspan24679">
+</tspan><tspan
+               x="288.85425"
+               y="460.9041"
+               id="tspan24681">if(operador == &quot;+&quot;){
+</tspan><tspan
+               x="288.85425"
+               y="468.8416"
+               id="tspan24683">
+</tspan><tspan
+               x="288.85425"
+               y="476.7791"
+               id="tspan24685">return addition
+</tspan><tspan
+               x="288.85425"
+               y="484.7166"
+               id="tspan24687">
+</tspan><tspan
+               x="288.85425"
+               y="492.6541"
+               id="tspan24689">}
+</tspan><tspan
+               x="288.85425"
+               y="500.5916"
+               id="tspan24691">
+</tspan><tspan
+               x="288.85425"
+               y="508.5291"
+               id="tspan24693">...
+</tspan><tspan
+               x="288.85425"
+               y="516.4666"
+               id="tspan24695">
+</tspan><tspan
+               x="288.85425"
+               y="524.40413"
+               id="tspan24697">}
+</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3756-0"
+       transform="translate(677.42202,-91.434683)">
+      <rect
+         style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.834931;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-2-2-4"
+         width="185.30215"
+         height="60.226299"
+         x="331.99573"
+         y="594.66724" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-0-0-8"
+         transform="translate(61.677734,280.97908)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24701"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 4.2771773 0 0 0 0 0 0 0 4.2771773 0 0 4.2771773"
+             id="tspan24699">getOperation retorna la operacion </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24705"><tspan
+             dx="0 0 0 0 0 0 0 0 0 4.3985114 0 0 4.3985114 0 0 0 0 0 0 0 0 4.3985076 0 0 0 0 0 0 0 0 4.3985076"
+             id="tspan24703">asociada al operador binario, de </tspan></tspan><tspan
+           x="277.76547"
+           y="351.95709"
+           id="tspan24709"><tspan
+             dx="0 0 0 0 0 0.66130781 0 0 0 0 0 0 0.6613059 0 0 0.66130972 0 0 0 0 0 0.66130209 0 0 0 0 0 0 0 0 0.66130972"
+             id="tspan24707">esta manera se podra utilizar luego </tspan></tspan><tspan
+           x="277.76547"
+           y="362.27584"
+           id="tspan24711">como callback</tspan></text>
+    </g>
+    <g
+       id="g6454-8"
+       transform="translate(764.24367,-9.6912427)">
+      <g
+         id="g8655-8"
+         transform="translate(11.302188,110.00787)">
+        <rect
+           style="fill:#b5bef9;fill-opacity:1;stroke-width:0.489232;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect5979-6-9"
+           width="151.22452"
+           height="56.703003"
+           x="90.539505"
+           y="500.81512" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:136.294;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="288.85425"
+           y="445.02908"
+           id="text5967-6-77"
+           transform="translate(-189.40031,71.179568)"><tspan
+             x="288.85425"
+             y="445.02908"
+             id="tspan24713">getResult = (a,b,operacion){
+</tspan><tspan
+             x="288.85425"
+             y="452.9666"
+             id="tspan24715">
+</tspan><tspan
+             x="288.85425"
+             y="460.9041"
+             id="tspan24717">return operacion(a,b)
+</tspan><tspan
+             x="288.85425"
+             y="468.8416"
+             id="tspan24719">
+</tspan><tspan
+             x="288.85425"
+             y="476.7791"
+             id="tspan24721">}
+</tspan></text>
+      </g>
+      <g
+         id="g3756-2-6"
+         transform="translate(-75.257089,18.029317)">
+        <rect
+           style="fill:#baff00;fill-opacity:1;stroke:none;stroke-width:0.764567;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6785-2-2-3-4"
+           width="185.30215"
+           height="50.502853"
+           x="331.99573"
+           y="594.66724" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:169.995;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="277.76547"
+           y="331.31958"
+           id="text6789-6-0-0-7-3"
+           transform="translate(61.677734,280.97908)"><tspan
+             x="277.76547"
+             y="331.31958"
+             id="tspan24725"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0.55108786 0 0 0 0 0 0 0.55109549 0 0.55108786 0 0 0 0 0 0 0 0.55109549 0 0 0 0.55108023 0 0 0.55109549"
+               id="tspan24723">getResult recibe 2 numeros (a, b) y </tspan></tspan><tspan
+             x="277.76547"
+             y="341.63833"
+             id="tspan24729"><tspan
+               dx="0 0 0 0 0 0 0 0 3.2078872 0 0 3.2078872 0 0 0 0 0 0 0 0 0 3.2078872 0 0 0 3.2078872"
+               id="tspan24727">retorna el resultado del callback </tspan></tspan><tspan
+             x="277.76547"
+             y="351.95709"
+             id="tspan24731">operacion</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#bcf9b5;fill-opacity:1;stroke-width:0.493726;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0-0"
+       width="214.94463"
+       height="40.629593"
+       x="871.60602"
+       y="675.07648" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:204.413;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6-3"
+       transform="translate(822.66706,461.0961)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24735"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 9.3382206 0 9.3382244"
+           id="tspan24733">resultado = getResult(parseInput(varA), </tspan></tspan><tspan
+         x="53.887424"
+         y="240.962"
+         id="tspan24737">parseInput(varB), getOperation(operador))</tspan></text>
+    <g
+       id="g2138-8-0"
+       transform="translate(859.31197,235.32688)">
+      <rect
+         style="fill:#ffee00;fill-opacity:1;stroke:none;stroke-width:0.544668;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6785-1-4-9"
+         width="118.58497"
+         height="40.049885"
+         x="374.80585"
+         y="268.37253" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1.3;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:105.033;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="277.76547"
+         y="331.31958"
+         id="text6789-6-6-5-2"
+         transform="translate(103.6772,-44.029367)"><tspan
+           x="277.76547"
+           y="331.31958"
+           id="tspan24741"><tspan
+             dx="0 0 0 0 0 4.8485484 0 0 0 0 4.8485465 0 0 4.8485427"
+             id="tspan24739">ESte paso se aplica </tspan></tspan><tspan
+           x="277.76547"
+           y="341.63833"
+           id="tspan24743">segun se requiere</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07369;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect2412-2-7-5"
+       width="33.472923"
+       height="172.33376"
+       x="816.88031"
+       y="742.15979" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect3625-8-5-4"
+       width="604.97675"
+       height="171.88142"
+       x="850.72021"
+       y="742.38599" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="831.12439"
+       y="835.76324"
+       id="text3629-97-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan3627-3-5-5"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="831.12439"
+         y="835.76324">4</tspan></text>
+    <g
+       id="g6777-6-9"
+       transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,356.56961,1348.8952)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6773-1-4"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6775-0-6"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <rect
+       style="fill:#e1f684;fill-opacity:1;stroke-width:0.337494;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0-3-9"
+       width="100.4351"
+       height="40.629593"
+       x="903.36829"
+       y="774.95593" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:204.413;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6-0-2"
+       transform="translate(864.26216,564.62675)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24745">si digita &quot;=&quot;</tspan></text>
+    <rect
+       style="fill:#f6d984;fill-opacity:1;stroke-width:0.337494;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1991-0-3-6-2"
+       width="100.4351"
+       height="40.629593"
+       x="1058.4745"
+       y="774.95593" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:85.6538;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="53.887424"
+       y="233.02451"
+       id="text1995-6-0-3-4"
+       transform="translate(1014.0766,558.80593)"><tspan
+         x="53.887424"
+         y="233.02451"
+         id="tspan24749"><tspan
+           dx="0 0 0 11.870878 0 0 0 0 0 0 0 11.870882"
+           id="tspan24747">se calcula el </tspan></tspan><tspan
+         x="53.887424"
+         y="240.962"
+         id="tspan24753"><tspan
+           dx="0 0 0 0 0 23.777138 0 23.777136"
+           id="tspan24751">paso 3 y </tspan></tspan><tspan
+         x="53.887424"
+         y="248.8995"
+         id="tspan24755">print(resultado)</tspan></text>
+    <g
+       id="g10773-7"
+       transform="translate(703.31424,-1.0458443)">
+      <rect
+         style="fill:#84c0f6;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-7"
+         width="85.934845"
+         height="31.943256"
+         x="493.64435"
+         y="751.44342" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-5"
+         transform="translate(446.88591,532.803)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24759"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24757">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24761">numero</tspan></text>
+      <rect
+         style="fill:#84ecf6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5-4"
+         width="85.934845"
+         height="46.587868"
+         x="634.53113"
+         y="747.58643" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4-8"
+         transform="translate(587.77273,528.94599)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24765"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24763">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24769"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24767">caso 1 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24773"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24771">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24775">varA</tspan></text>
+      <g
+         id="g6777-6-7-1"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-69.579725,1318.8441)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6-2"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5-8"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <g
+       id="g10783-9"
+       transform="translate(720.59589,-32.194788)">
+      <rect
+         style="fill:#f684aa;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-3"
+         width="85.934845"
+         height="31.943256"
+         x="476.3627"
+         y="841.10052" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-68"
+         transform="translate(429.6043,622.46016)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24779"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24777">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24781">operador</tspan></text>
+      <rect
+         style="fill:#9f84f6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5-6-0"
+         width="85.934845"
+         height="46.587868"
+         x="618.42719"
+         y="832.7887" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4-9-2"
+         transform="translate(571.66877,614.14821)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24785"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24783">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24789"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24787">caso 2 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24793"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24791">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24795">operador</tspan></text>
+      <g
+         id="g6777-6-7-3-1"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-84.949694,1410.6983)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6-7-0"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5-4-5"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <g
+       id="g10882-1"
+       transform="matrix(1.5079057,-1.3013699,1.0429198,1.2084379,466.68324,885.6084)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767-2-1"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769-5-0"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <g
+       id="g10882-4-8"
+       transform="matrix(1.2433944,1.5560571,1.2470265,-0.99645812,488.57087,576.02864)">
+      <rect
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect6767-2-7-5"
+         width="0.69011515"
+         height="6.6415858"
+         x="288.75479"
+         y="255.71228" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="path6769-5-4-0"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="835.60205"
+         sodipodi:cy="1146.1949"
+         sodipodi:r1="28.390785"
+         sodipodi:r2="14.195393"
+         sodipodi:arg1="1.5768378"
+         sodipodi:arg2="2.6240353"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+         transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+         inkscape:transform-center-x="-0.010128111"
+         inkscape:transform-center-y="0.82930326" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="889.74377"
+       y="798.69971"
+       id="text3629-9-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan3627-1-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="889.74377"
+         y="798.69971">1</tspan></text>
+    <g
+       id="g10783-2-6"
+       transform="translate(429.43755,16.655456)">
+      <rect
+         style="fill:#f684aa;fill-opacity:1;stroke-width:0.276807;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-0-2"
+         width="85.934845"
+         height="31.943256"
+         x="476.3627"
+         y="841.10052" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-6-5"
+         transform="translate(429.6043,622.46016)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24799"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24797">si digita un </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24801">operador</tspan></text>
+      <rect
+         style="fill:#9f84f6;fill-opacity:1;stroke-width:0.33429;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1991-0-3-6-0-1-5-6-8-8"
+         width="85.934845"
+         height="46.587868"
+         x="618.42719"
+         y="832.7887" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:71.153;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+         x="53.887424"
+         y="233.02451"
+         id="text1995-6-0-3-6-5-4-9-9-6"
+         transform="translate(571.66877,614.14821)"><tspan
+           x="53.887424"
+           y="233.02451"
+           id="tspan24805"><tspan
+             dx="0 0 0 7.002131 0 0 0 0 0 0 7.00213"
+             id="tspan24803">se aplica el </tspan></tspan><tspan
+           x="53.887424"
+           y="240.962"
+           id="tspan24809"><tspan
+             dx="0 0 0 0 0 2.2396274 0 2.2396274"
+             id="tspan24807">caso 2 tomando </tspan></tspan><tspan
+           x="53.887424"
+           y="248.8995"
+           id="tspan24813"><tspan
+             dx="0 0 0 4.6208787 0 0 0 0 0 4.6208777"
+             id="tspan24811">el input como </tspan></tspan><tspan
+           x="53.887424"
+           y="256.837"
+           id="tspan24815">operador</tspan></text>
+      <g
+         id="g6777-6-7-3-2-2"
+         transform="matrix(-0.0517844,-1.8814132,2.6324359,-0.03701053,-84.949694,1410.6983)">
+        <rect
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect6773-1-6-7-6-8"
+           width="0.69011515"
+           height="6.6415858"
+           x="288.75479"
+           y="255.71228" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000304;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="path6775-0-5-4-6-4"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="835.60205"
+           sodipodi:cy="1146.1949"
+           sodipodi:r1="28.390785"
+           sodipodi:r2="14.195393"
+           sodipodi:arg1="1.5768378"
+           sodipodi:arg2="2.6240353"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 835.43053,1174.5852 -24.32941,-42.7339 49.17338,0.2971 z"
+           transform="matrix(0.11807849,0,0,0.11807849,190.42309,128.68902)"
+           inkscape:transform-center-x="-0.010128111"
+           inkscape:transform-center-y="0.82930326" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+       x="892.13202"
+       y="880.68152"
+       id="text3629-9-4-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan3627-1-3-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.525px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="892.13202"
+         y="880.68152">2</tspan></text>
+    <g
+       id="g4654-4"
+       transform="translate(540.65356,70.68077)">
+      <g
+         id="g8853-0"
+         transform="translate(80.281272,6.2980336)">
+        <rect
+           style="fill:#ccb5f9;fill-opacity:1;stroke-width:0.355109;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect4648-6"
+           width="130.02374"
+           height="34.745441"
+           x="-260.35049"
+           y="-29.521101" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:7.9375px;line-height:1;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';text-align:justify;white-space:pre;inline-size:108.229;fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:stroke fill markers;stop-color:#000000"
+           x="28.643536"
+           y="41.161167"
+           id="text4652-2"
+           transform="translate(-278.40203,-58.250641)"><tspan
+             x="28.643536"
+             y="41.161167"
+             id="tspan24819"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 13.633959 0 0 0 0 13.633959"
+               id="tspan24817">presionar &quot;AC&quot; en </tspan></tspan><tspan
+             x="28.643536"
+             y="49.098668"
+             id="tspan24823"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 27.26792"
+               id="tspan24821">cualquier momento </tspan></tspan><tspan
+             x="28.643536"
+             y="57.036168"
+             id="tspan24825">reinicia al caso 1</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
