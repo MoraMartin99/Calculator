@@ -114,10 +114,29 @@ main {
 }
 
 .display {
+    font-size: 65px;
+    font-weight: 500;
+    color: var(--azulExtraOscuro);
     width: var(--widthDisplay);
     height: var(--heightDisplay);
     background-color: var(--verde);
     border-radius: var(--radiusDisplay);
+    display: grid;
+    grid-template-columns: var(--displayRowWidth);
+    grid-template-rows: 1fr max-content var(--gapCalculator);
+    grid-template-areas:
+        "a"
+        "b"
+        "c";
+    justify-content: center;
+    justify-items: end;
+}
+
+.displayContent {
+    font-size: var(--displayFont);
+    font-weight: 500;
+    color: var(--azulExtraOscuro);
+    grid-area: b;
 }
 
 .buttonContainer {
